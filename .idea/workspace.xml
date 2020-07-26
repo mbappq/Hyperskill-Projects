@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f7ae914d-dd8b-4814-9a10-d517533e32c6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Coffee Machine/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coffee Machine/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coffee Machine/.idea/frameworkLessonHistory/storage.storageData" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coffee Machine/.idea/frameworkLessonHistory/storage.storageRecordIndex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coffee Machine/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coffee Machine/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coffee Machine/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coffee Machine/Coffee Machine/Action!/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coffee Machine/Coffee Machine/Action!/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coffee Machine/Coffee Machine/Brush up your code/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coffee Machine/Coffee Machine/Brush up your code/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coffee Machine/Coffee Machine/Enough coffee for everyone/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coffee Machine/Coffee Machine/Enough coffee for everyone/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coffee Machine/Coffee Machine/Hello, coffee!/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coffee Machine/Coffee Machine/Hello, coffee!/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coffee Machine/Coffee Machine/Machines have needs/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coffee Machine/Coffee Machine/Machines have needs/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coffee Machine/Coffee Machine/On a coffee loop/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coffee Machine/Coffee Machine/On a coffee loop/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coffee Machine/Coffee Machine/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coffee Machine/course-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coffee Machine/course-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coffee Machine/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coffee Machine/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coffee Machine/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Coffee Machine/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1fEedQilZtxvBKRd6PXZdObOoAQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f7ae914d-dd8b-4814-9a10-d517533e32c6" name="Default Changelist" comment="" />
+      <created>1595787766242</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595787766242</updated>
+      <workItem from="1595787779091" duration="1561000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="466" y="179" key="FileChooserDialogImpl" timestamp="1595788623669">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="466" y="179" key="FileChooserDialogImpl/0.0.1368.872@0.0.1368.872" timestamp="1595788623669" />
+  </component>
+</project>
