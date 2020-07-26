@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Check sudoku/Problems-Check_sudoku.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Check sudoku/Problems-Check_sudoku.iml" group="Tic-Tac-Toe/Problems-Check_sudoku" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Check sudoku/Problems-Check_sudoku_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Check sudoku/Problems-Check_sudoku_main.iml" group="Tic-Tac-Toe/Problems-Check_sudoku" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Check sudoku/Problems-Check_sudoku_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Check sudoku/Problems-Check_sudoku_test.iml" group="Tic-Tac-Toe/Problems-Check_sudoku" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Sum of neighbors/Problems-Sum_of_neighbors.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Sum of neighbors/Problems-Sum_of_neighbors.iml" group="Tic-Tac-Toe/Problems-Sum_of_neighbors" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Sum of neighbors/Problems-Sum_of_neighbors_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Sum of neighbors/Problems-Sum_of_neighbors_main.iml" group="Tic-Tac-Toe/Problems-Sum_of_neighbors" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Sum of neighbors/Problems-Sum_of_neighbors_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Sum of neighbors/Problems-Sum_of_neighbors_test.iml" group="Tic-Tac-Toe/Problems-Sum_of_neighbors" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe.iml" filepath="$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe.iml" group="Tic-Tac-Toe" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe/task/Tic-Tac-Toe-task.iml" filepath="$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe/task/Tic-Tac-Toe-task.iml" group="Tic-Tac-Toe/Tic-Tac-Toe-task" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe/task/Tic-Tac-Toe-task_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe/task/Tic-Tac-Toe-task_main.iml" group="Tic-Tac-Toe/Tic-Tac-Toe-task" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe/task/Tic-Tac-Toe-task_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe/task/Tic-Tac-Toe-task_test.iml" group="Tic-Tac-Toe/Tic-Tac-Toe-task" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util.iml" group="Tic-Tac-Toe/util" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util_main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util_main.iml" group="Tic-Tac-Toe/util" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util_test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util_test.iml" group="Tic-Tac-Toe/util" />
+    </modules>
+  </component>
+</project>
