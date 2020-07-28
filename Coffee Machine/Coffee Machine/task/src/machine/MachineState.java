@@ -1,0 +1,5 @@
+package machine;
+
+public enum MachineState {
+    OFF, ON, AWAITING_INPUT, BUYING, MAKING_COFFEE, FILLING_RESOURCES, WITHDRAWING_MONEY
+}
